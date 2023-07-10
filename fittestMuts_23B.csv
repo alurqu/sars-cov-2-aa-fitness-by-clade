@@ -1,0 +1,1 @@
+clade,gene,clade_founder_aa,mutant_aa,aa_site,aa_mutation,expected_count,actual_count,count_terminal,count_non_terminal,mean_log_size,subset_of_ORF1ab,delta_fitness
